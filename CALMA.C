@@ -3,7 +3,12 @@
 #include<stdio.h>
 #include<math.h>
 
-main()
+int a,b,c;
+
+float x,y,z;
+
+
+int main()
 {
   
   
