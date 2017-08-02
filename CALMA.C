@@ -31,6 +31,8 @@ float x,y,z;
   scanf("%d",&y);
    printf("number 6");
   scanf("%d",&z);
+  for()
+    if then else
   
   
   
