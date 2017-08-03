@@ -32,6 +32,7 @@ float x,y,z;
    printf("number 6");
   scanf("%d",&z);
   for()
+    case of
     if then else
   
   
