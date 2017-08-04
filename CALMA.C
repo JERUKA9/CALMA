@@ -50,6 +50,13 @@ h=x+y+z;
       
     if then else
       
+      main()
+      
+      
+      
+      
+      int main()
+      
       
   
   
