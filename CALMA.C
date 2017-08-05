@@ -58,6 +58,10 @@ h=x+y+z;
       int main()
       
       
+      our_function *a;
+  
+      
+      
   
   
   
