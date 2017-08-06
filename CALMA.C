@@ -22,6 +22,12 @@ puts("odejmowanie"):
   puts("dzielnie z resztą");
   
   
+  getch();
+  
+  system("pause"):
+  
+  
+  
   return 0;
 
 
