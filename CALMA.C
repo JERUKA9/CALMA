@@ -8,19 +8,19 @@
 int main()
 {
 
-puts("dodawanie");
+puts("dodawanie\n");
 
 
-puts("odejmowanie");
+puts("odejmowanie\n");
 
 
-  puts("mnozenie");
+  puts("mnozenie\n");
 
 
-  puts("dzielnie");
+  puts("dzielnie\n");
 
 
-  puts("dzielnie z reszta");
+  puts("dzielnie z reszta\n");
 
 
   getch();
