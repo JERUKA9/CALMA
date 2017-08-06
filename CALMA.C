@@ -7,7 +7,21 @@
 
 int main()
 {
-
+puts("dodawanie"):
+  
+  
+puts("odejmowanie"):
+  
+  
+  puts("mnozenie"):
+  
+  
+  puts("dzielnie");
+  
+  
+  puts("dzielnie z resztą");
+  
+  
   return 0;
 
 
