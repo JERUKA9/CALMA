@@ -1,3 +1,3 @@
 # CALMA
-calculator writen in pure C with use of: math.h and other C functions.
+calculator writen in pure C.
 soon rewrite from begining code was shi**y.
