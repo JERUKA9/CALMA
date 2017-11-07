@@ -3,6 +3,8 @@
 #include<string.h>
 #define
 
+int,float,double;
+
 
 
 
