@@ -5,6 +5,12 @@
 
 int,float,double;
 
+case '-'
+case'+'
+case'/'
+case'*'
+case'%'
+
 
 
 
