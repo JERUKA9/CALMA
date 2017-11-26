@@ -5,6 +5,9 @@
 
 int,float,double;
 
+int main()
+
+
 case '-'
 case'+'
 case'/'
