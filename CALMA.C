@@ -3,16 +3,17 @@
 #include<string.h>
 #define
 
-int,float,double;
+double;
 
 int main()
 
+switch()
 
-case '-'
-case'+'
-case'/'
-case'*'
-case'%'
+case '-'  :
+case'+'   :
+case'/'   :
+case'*'   :
+case'%'   :
 
 
 
